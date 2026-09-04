@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Escape",
+  "description": "A calming, addictive tap-away arrow maze puzzle game with procedural solvable levels, hints, and daily challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
